@@ -1,0 +1,23 @@
+XOR operation
+Input XML Parsed Successfully
+Output Format --> >ab_y : y=a XOR b
+
+>01
+
+(1,0) : ('2', '0', '1')
+>01
+0>1
+
+(2,1) : ('4', '1', '1')
+0>1
+01>_
+
+(4,-1) : ('6', '-1', '1')
+01>_
+01_>_
+
+(6,-1) : ('0', '1', '1')
+01_>1
+01_1>_
+
+XOR operation implemented on given input.
